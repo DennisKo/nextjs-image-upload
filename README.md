@@ -2,7 +2,6 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-It is currently deployed at: https://image-upload-three.vercel.app/
 
 ## Installation
 
@@ -28,3 +27,8 @@ To run tests:
 ```bash
 yarn test
 ```
+
+
+### 
+
+NextJS, Tailwind, SWR, React Testing Library
